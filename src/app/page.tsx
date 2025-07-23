@@ -64,7 +64,7 @@ export default function HomePage() {
                 <Link href="/contact" className="btn-primary bg-white text-primary-600 hover:bg-primary-50">
                   Prendre rendez-vous
                 </Link>
-                <Link href="/services" className="btn-secondary border-white text-white hover:bg-white hover:text-primary-600">
+                <Link href="/services" className="border-2 border-white text-white bg-transparent hover:bg-white hover:text-primary-600 font-medium py-3 px-6 rounded-lg transition-colors duration-200">
                   Découvrir nos services
                 </Link>
               </div>
