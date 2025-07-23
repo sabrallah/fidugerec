@@ -61,10 +61,10 @@ export default function HomePage() {
                 Expertise comptable, conseil fiscal et accompagnement personnalisé pour faire grandir votre entreprise.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 animate-slide-up">
-                <Link href="/contact" className="btn-primary bg-white text-primary-600 hover:bg-primary-50">
+                <Link href="/contact" className="bg-white text-primary-600 hover:bg-primary-50 font-medium py-3 px-6 rounded-lg transition-colors duration-200">
                   Prendre rendez-vous
                 </Link>
-                <Link href="/services" className="border-2 border-white text-white bg-transparent hover:bg-white hover:text-primary-600 font-medium py-3 px-6 rounded-lg transition-colors duration-200">
+                <Link href="/services" className="bg-white text-primary-600 hover:bg-primary-50 font-medium py-3 px-6 rounded-lg transition-colors duration-200">
                   Découvrir nos services
                 </Link>
               </div>
