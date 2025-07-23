@@ -34,21 +34,21 @@ const values = [
 
 const team = [
   {
-    name: 'Marie Dubois',
-    role: 'Expert-Comptable Associée',
-    description: 'Diplômée de l\'INTEC, Marie accompagne les entreprises depuis plus de 12 ans dans leur développement comptable et fiscal.',
+    name: 'Sabrallah Youssef',
+    role: 'Expert-Comptable Associé',
+    description: 'Diplômé de l\'INTEC, Sabrallah accompagne les entreprises depuis plus de 12 ans dans leur développement comptable et fiscal.',
     specialties: ['Audit et révision', 'Fiscalité des entreprises', 'Consolidation']
   },
   {
-    name: 'Jean-Pierre Martin',
+    name: 'Khalid El Idrissi',
     role: 'Conseiller Fiscal Senior',
-    description: 'Fort de 10 ans d\'expérience, Jean-Pierre se spécialise dans l\'optimisation fiscale et l\'accompagnement des contrôles fiscaux.',
+    description: 'Fort de 10 ans d\'expérience, Khalid se spécialise dans l\'optimisation fiscale et l\'accompagnement des contrôles fiscaux.',
     specialties: ['Optimisation fiscale', 'Contrôle fiscal', 'Fiscalité internationale']
   },
   {
-    name: 'Sophie Leroy',
-    role: 'Consultante en Création d\'Entreprise',
-    description: 'Passionnée par l\'entrepreneuriat, Sophie accompagne les porteurs de projets dans toutes les étapes de création.',
+    name: 'Sabrallah Youssef',
+    role: 'Consultant en Création d\'Entreprise',
+    description: 'Passionné par l\'entrepreneuriat, Sabrallah accompagne les porteurs de projets dans toutes les étapes de création.',
     specialties: ['Business plan', 'Financement', 'Statuts juridiques']
   },
 ]
